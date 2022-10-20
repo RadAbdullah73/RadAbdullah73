@@ -1,7 +1,7 @@
 ### Hello Friends 👋 
 I'm Ra'd Abdullah , full stack developer from Palestine ,Now I'm a trainee at Axsos Academy
 
-Skills: Python / REACT / JS / HTML / CSS
+Skills: Python / REACT / JS / HTML / CSS / Java / Mern / C++ / Django & Flask / BootStrap
 
 - 🌱 I’m currently learning Java and Mern 
 
